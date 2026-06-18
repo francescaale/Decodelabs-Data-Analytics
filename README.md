@@ -1,4 +1,5 @@
 ## Decodelabs Data Analytics Internship
+This repository contains deliverables for my 4-week Data Analytics internship with DecodeLabs. The project demonstrates the end-to-end analytics lifecycle of an e-commerce sales dataset—spanning data cleaning, descriptive statistics, deep-dive SQL querying, and interactive dashboard development.
 
 ## Project 1 – Data Preparation and Cleaning
 * Cleaned and standardized an e-commerce dataset by handling missing values, validating records, recalculating fields, removing inconsistencies, and documenting all data quality improvements to produce an analysis-ready dataset.

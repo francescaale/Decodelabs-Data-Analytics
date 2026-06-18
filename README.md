@@ -1,4 +1,4 @@
-# Decodelabs Data Analytics Internship
+## Decodelabs Data Analytics Internship
 
 ## Project 1 – Data Preparation and Cleaning
 * Cleaned and standardized an e-commerce dataset by handling missing values, validating records, recalculating fields, removing inconsistencies, and documenting all data quality improvements to produce an analysis-ready dataset.

@@ -10,7 +10,8 @@
 
 **Project 3 – SQL Data Analysis**
 * Used SQL queries to extract, filter, sort, group, and aggregate data from the e-commerce dataset. Applied SELECT, WHERE, ORDER BY, GROUP BY, COUNT, SUM, and AVG functions to answer business questions and generate actionable insights.
-<img width="1414" height="2000" alt="1" src="https://github.com/user-attachments/assets/efbde8f1-748c-4106-aed2-2342b72659d6" />
+<img width="345" height="221" alt="image" src="https://github.com/user-attachments/assets/b6e8dbfa-2182-47f3-8b81-fbedab8fc417" />
+
 
 
 **Project 4 – Data Visualization**

@@ -10,6 +10,8 @@
 
 **Project 3 – SQL Data Analysis**
 * Used SQL queries to extract, filter, sort, group, and aggregate data from the e-commerce dataset. Applied SELECT, WHERE, ORDER BY, GROUP BY, COUNT, SUM, and AVG functions to answer business questions and generate actionable insights.
+<img width="1414" height="2000" alt="1" src="https://github.com/user-attachments/assets/efbde8f1-748c-4106-aed2-2342b72659d6" />
+
 
 **Project 4 – Data Visualization**
 * Designed an interactive analytics dashboard to communicate business insights through KPIs, charts, and visual storytelling. Presented revenue trends, product performance, referral sources, coupon effectiveness, payment methods, and operational metrics in a clear executive-ready format.

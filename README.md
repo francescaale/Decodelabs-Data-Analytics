@@ -1,16 +1,16 @@
 # Decodelabs Data Analytics Internship
 
-**Project 1 – Data Preparation and Cleaning**:
-Cleaned and standardized an e-commerce dataset by handling missing values, validating records, recalculating fields, removing inconsistencies, and documenting all data quality improvements to produce an analysis-ready dataset.
+**Project 1 – Data Preparation and Cleaning**
+* Cleaned and standardized an e-commerce dataset by handling missing values, validating records, recalculating fields, removing inconsistencies, and documenting all data quality improvements to produce an analysis-ready dataset.
 
-**Project 2 – Exploratory Data Analysis (EDA)**:
-Performed descriptive statistics, trend analysis, outlier detection, and business insight discovery using PivotTables to identify key patterns in customer orders, revenue, products, and marketing performance.
+**Project 2 – Exploratory Data Analysis (EDA)**
+* Performed descriptive statistics, trend analysis, outlier detection, and business insight discovery using PivotTables to identify key patterns in customer orders, revenue, products, and marketing performance.
 
-**Project 3 – SQL Data Analysis**:
-Used SQL queries to extract, filter, sort, group, and aggregate data from the e-commerce dataset. Applied SELECT, WHERE, ORDER BY, GROUP BY, COUNT, SUM, and AVG functions to answer business questions and generate actionable insights.
+**Project 3 – SQL Data Analysis**
+* Used SQL queries to extract, filter, sort, group, and aggregate data from the e-commerce dataset. Applied SELECT, WHERE, ORDER BY, GROUP BY, COUNT, SUM, and AVG functions to answer business questions and generate actionable insights.
 
-**Project 4 – Data Visualization**:
-Designed an interactive analytics dashboard to communicate business insights through KPIs, charts, and visual storytelling. Presented revenue trends, product performance, referral sources, coupon effectiveness, payment methods, and operational metrics in a clear executive-ready format.
+**Project 4 – Data Visualization**
+* Designed an interactive analytics dashboard to communicate business insights through KPIs, charts, and visual storytelling. Presented revenue trends, product performance, referral sources, coupon effectiveness, payment methods, and operational metrics in a clear executive-ready format.
 
 
 

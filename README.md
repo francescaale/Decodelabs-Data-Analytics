@@ -6,7 +6,7 @@
 
 ## Project 2 – Exploratory Data Analysis (EDA)
 * Performed descriptive statistics, trend analysis, outlier detection, and business insight discovery using PivotTables to identify key patterns in customer orders, revenue, products, and marketing performance.
-<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/3f877bbe-1178-404e-ae45-3d74ca13df38" />
+<img width="600" height="250" alt="image" src="https://github.com/user-attachments/assets/3f877bbe-1178-404e-ae45-3d74ca13df38" />
 
 ## Project 3 – SQL Data Analysis
 * Used SQL queries to extract, filter, sort, group, and aggregate data from the e-commerce dataset. Applied SELECT, WHERE, ORDER BY, GROUP BY, COUNT, SUM, and AVG functions to answer business questions and generate actionable insights.
